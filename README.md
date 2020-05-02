@@ -2,11 +2,8 @@
 # npm run ios
 
 #Home screen
-.
-.
-.
-.
-![home screen](https://github.com/oceankrish76/react-native/blob/master/img/homscreen.jpg?raw=true)
+
+![home screen](https://github.com/oceankrish76/react-native/blob/master/img/homscreen.jpg?raw=true | width=248)
 .
 .
 .
