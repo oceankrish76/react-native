@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, Text, Button } from 'react-native';
 import { useIsFocused } from "@react-navigation/core";
+import Todo from '../components/Todo';
 
 const SettingsScreen = ({ route, navigation }) => {
     const { dataobject } = route.params;
@@ -14,6 +15,8 @@ const SettingsScreen = ({ route, navigation }) => {
             <Text>OtherParam: {JSON.stringify(dataobject)}</Text>
             <Text>Remember to use me ~route.params & maybe this.props.navigation.getParam(dataobject)</Text>
             <Button title="Go To Home Screen" onPress={() => navigation.goBack()} />
+
+            <Todo />
         </View>
     );
 };
