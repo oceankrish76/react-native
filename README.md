@@ -3,7 +3,7 @@
 
 #Home screen
 
-<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/homscreen.jpg" height="548" width="348" >
+<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/homscreen.jpg" height="548" width="348" />
 .
 .
 .
