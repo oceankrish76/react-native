@@ -2,12 +2,13 @@
 # npm run ios
 
 #Home screen
-![home screen](https://github.com/oceankrish76/react-native/blob/master/img/homscreen.jpg =250x400)
+![home screen](https://github.com/oceankrish76/react-native/blob/master/img/homscreen.jpg?raw=true)
+.
 .
 .
 .
 #Settings screen
-![settings screen](https://github.com/oceankrish76/react-native/blob/master/img/settingsscreen.jpg =250x400)
+![settings screen](https://github.com/oceankrish76/react-native/blob/master/img/settingsscreen.jpg?raw=true)
 
 # Used:
 1. createStackNavigator
