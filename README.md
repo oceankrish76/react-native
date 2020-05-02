@@ -3,13 +3,13 @@
 
 #Home screen
 
-<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/homscreen.jpg" alt="home screen" height="600" width="300" />
+<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/homscreen.jpg" alt="home screen" align="center" height="600" width="300" />
 .
 .
 .
 #Settings screen
 
-<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/settingsscreen.jpg" alt="setting screen" height="600" width="300" />
+<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/settingsscreen.jpg" alt="setting screen" align="center" height="600" width="300" />
 
 # Used:
 1. createStackNavigator
