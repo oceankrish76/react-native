@@ -36,11 +36,11 @@ export default class Todo extends Component {
                     <Card key={item.id} style={{ margin: 10 }}>
                         <List.Item
                             title={item.title}
-
+                            description = "Todo description"
                             right={() => <List.Icon icon="delete" />}
                             onPress={() => { AsyncStorage.removeItem("mylist") }}
                         />
-                        <Text key={item.id} style={{ padding: 10 }}>{item.data}</Text>
+                        <Text key={item.id} style={{ paddingLeft: 10 }}>{item.data}</Text>
                     </Card>
                 )
             })

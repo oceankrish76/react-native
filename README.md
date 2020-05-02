@@ -3,8 +3,7 @@
 
 #Home screen
 
-![home screen](https://github.com/oceankrish76/react-native/blob/master/img/homscreen.jpg?raw=true | width=248)
-.
+<img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/homscreen.jpg" height="548" width="348" >
 .
 .
 .

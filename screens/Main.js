@@ -63,10 +63,10 @@ class Main extends Component {
 
                 <ScrollView>
 
-                    <Image source={{ uri: "https://i.pinimg.com/originals/c7/54/cf/c754cf649aaa402cd20d70df9d494636.png", height: 200, width: 390 }} />
-                    <Image source={{ uri: "https://info.usertesting.com/rs/709-WMS-542/images/UT-Logo-LP.png", height: 100, width: 390 }} />
+                    <Image source={{ uri: "https://images.pexels.com/photos/2777898/pexels-photo-2777898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 300, width: 405 }} />
+                    <Image source={{ uri: "https://i.pinimg.com/originals/c7/54/cf/c754cf649aaa402cd20d70df9d494636.png", height: 100, width: 390 }} />
 
-                    <Image source={{ uri: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 100, width: 390 }} />
+                    <Image source={{ uri: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 100, width: 395 }} />
                     <Image source={{ uri: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 100, width: 390 }} />
                     <Image source={{ uri: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 100, width: 390 }} />
                     <Image source={{ uri: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 100, width: 390 }} />
