@@ -3,14 +3,16 @@
 
 #Home screen
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/homscreen.jpg" alt="home screen" align="center" height="600" width="300" />
+</p>
 .
-.
+.s
 .
 #Settings screen
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/oceankrish76/react-native/master/img/settingsscreen.jpg" alt="setting screen" align="center" height="600" width="300" />
-
+</p>
 # Used:
 1. createStackNavigator
 2. Fetch Api data and manipulate
