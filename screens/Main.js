@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet, Text, View, Alert, ScrollView, Image } from 'react-native';
 import { TextInput, Appbar, Button } from 'react-native-paper';
 import Display from '../components/Display';
-import Footer from '../components/Footer';
+//import Footer from '../components/Footer';
 import { Icon } from 'react-native-elements';
 
 class Main extends Component {
@@ -14,7 +14,6 @@ class Main extends Component {
         status: "online",
         text: "loading",
         username: "loading"
-
     }
     handleState = () => {
         this.setState({ name: 'Doe' })
@@ -60,9 +59,7 @@ class Main extends Component {
         return (
 
             <View style={styles.container}>
-
                 <ScrollView>
-
                     <Image source={{ uri: "https://images.pexels.com/photos/2777898/pexels-photo-2777898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", height: 300, width: 405 }} />
                     <Image source={{ uri: "https://i.pinimg.com/originals/c7/54/cf/c754cf649aaa402cd20d70df9d494636.png", height: 100, width: 390 }} />
 
@@ -110,11 +107,6 @@ class Main extends Component {
                     Press me
         </Button>
                 <Display data={this.state.result} />
-
-                <View style={styles.footer}>
-                    <Footer />
-                </View>
-
             </View>
         );
     }
