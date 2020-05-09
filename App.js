@@ -7,6 +7,7 @@ import { Icon } from 'react-native-elements';
 import SettingsScreen from './screens/SettingsScreen';
 import HomeScreen from './screens/HomeScreen';
 import CameraComponent from './components/CameraComponent';
+import BarcodeScanner from './components/BarcodeScanner';
 import Reducer from './reducers/Reducer';
 import Footer from './components/Footer';
 
@@ -38,6 +39,8 @@ export default function App() {
           <Stack.Screen name="Settings" component={SettingsScreen} />
 
           <Stack.Screen name="Camera" component={CameraComponent} />
+
+          <Stack.Screen name="Barcode" component={BarcodeScanner} />
         </Stack.Navigator>
       </NavigationContainer>
       <View>

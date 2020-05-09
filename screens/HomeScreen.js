@@ -36,7 +36,20 @@ const HomeScreen = ({ navigation }) => {
                 underlayColor='#000'
                 color="#000"
             ><Text>Go to Camera Screen</Text>
-        </Button>
+                </Button>
+                
+                <Button style={{
+                    width: 420,
+                    backgroundColor: '#000',
+                    marginLeft: 0,
+                    color: 'black',
+                }}
+                    title="Go To Barcode Screen"
+                    onPress={() => navigation.navigate("Barcode", { dataobject: 'Display data obj prop' })}
+                    underlayColor='#000'
+                    color="#000"
+                ><Text>Go to Barcode Screen</Text>
+                </Button>
         </View>
         </View>
     );
